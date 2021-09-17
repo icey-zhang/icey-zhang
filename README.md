@@ -1,5 +1,5 @@
 ### Hello，world 👋
-** This is aQing **
+**This is aQing**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in Xi'dian university
