@@ -1,6 +1,5 @@
-### Hello，world 👋
-**This is aQing**
-
+### Hello，world 👋 This is aQing
+**icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in Xi'dian university
 - 👯 I’m looking to collaborate on ...
