@@ -1,12 +1,5 @@
 ### Hello，world 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=icey-zhang&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icey-zhang" />
-</a>
-
-Here are some ideas to get you started:
+** This is aQing **
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in Xi'dian university
@@ -17,6 +10,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=icey-zhang&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icey-zhang" />
+</a>
+
+
 
 <!--
 **icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
