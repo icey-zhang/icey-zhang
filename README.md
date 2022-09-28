@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on multimodal object detection in remote sensing
 - 🌱 I’m currently learning in Xi'dian university
 - 👯 I’m looking to collaborate on competitions and events and balabala
-- 📫 How to reach me: jq.zhangcn@foxmail.com
+- 📫 How to reach me: jq.zhangcn@foxmail.com or jq.zhangcn@foxmail.com (in common use)
 - 👌 Everything is OK！！ Don't be upset~~
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
