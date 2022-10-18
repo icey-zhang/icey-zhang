@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning in Xi'dian university
 - 👯 I’m looking to collaborate on competitions and events and balabala
 - 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn or jq.zhangcn@foxmail.com (in common use)
-- 😄 welcome to my Personal [homepage](https://icey-zhang.github.io)
+- 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 - 👌 Everything is OK！！ Don't be upset~~
 
 
