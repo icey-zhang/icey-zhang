@@ -1,6 +1,6 @@
 ### Hello，world 👋 This is aQing ✨✨
   
-
+- ⚡ I’m looking for a position of PhD visitor, please concat me.
 - 🔭 I’m currently working on multimodal object detection in remote sensing
 - 🌱 I’m currently learning in Xi'dian university
 - 👯 I’m looking to collaborate on competitions and events and balabala
