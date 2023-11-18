@@ -1,4 +1,4 @@
-### Hello，world 👋 This is aQing ✨✨
+### Hello，world 👋 This is aqing ✨✨
   
 - 🔭 multimodal object detection in remote sensing
 - 🌱 Xi'dian university
