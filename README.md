@@ -1,9 +1,7 @@
 ### Hello，world 👋 This is aQing ✨✨
   
-- ⚡ I’m looking for a position of PhD visitor, please concat me.
-- 🔭 I’m currently working on multimodal object detection in remote sensing
-- 🌱 I’m currently learning in Xi'dian university
-- 👯 I’m looking to collaborate on competitions and events and balabala
+- 🔭 multimodal object detection in remote sensing
+- 🌱 Xi'dian university
 - 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn or jq.zhangcn@foxmail.com (in common use)
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 - 👌 Everything is OK！！ Don't be upset~~
