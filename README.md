@@ -4,7 +4,6 @@
 - 🌱 Xi'dian university
 - 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn (in common use)
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
-- 👌 Everything is OK！！ Don't be upset~~
 
 
 
