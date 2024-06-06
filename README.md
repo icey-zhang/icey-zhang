@@ -6,8 +6,11 @@
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
 
-
+* 项目汇总
+  * [DIAnet](https://github.com/icey-zhang/DIAnet)：Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DIAnet&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [SuperYOLO](https://github.com/icey-zhang/SuperYOLO)：SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/SuperYOLO&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
 
 <!--
 **icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
