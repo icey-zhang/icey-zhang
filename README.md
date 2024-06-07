@@ -17,10 +17,10 @@
   * [SSL-SSTD](https://github.com/icey-zhang/SSL-SSTD)：Self-spectral learning with GAN based spectral--spatial target detection for hyperspectral image (NN2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/SSL-SSTD&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
 
 * **论文复现**
-* [model-dictionary](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/model-dictionary&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [model-dictionary](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/model-dictionary&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
 * **论文阅读**
-* [notebook](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/notebook&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+  * [notebook](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/notebook&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
 
 <!--
 **icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
