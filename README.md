@@ -5,9 +5,9 @@
 - 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
--->
+
 
 <p align="center">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=icey-zhang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
