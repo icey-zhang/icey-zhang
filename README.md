@@ -8,7 +8,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
 
-* **项目汇总**
+* **项目汇总**🌱
   * [DIAnet](https://github.com/icey-zhang/DIAnet)：Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DIAnet&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [SuperYOLO](https://github.com/icey-zhang/SuperYOLO)：SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery (TGRS2023, ESI Hot Paper (TOP 0.1%)) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/SuperYOLO&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [GHOST](https://github.com/icey-zhang/GHOST)：Guided Hybrid Quantization for Object Detection in Multimodal Remote Sensing Imagery via One-to-one Self-teaching (TGRS2023) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/GHOST&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
@@ -16,11 +16,11 @@
   * [MIViT](https://github.com/icey-zhang/MIViT)：Multimodal Informative ViT: Information Aggregation and Distribution for Hyperspectral and LiDAR Classification (TCSVT2024) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/MIViT&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [SSL-SSTD](https://github.com/icey-zhang/SSL-SSTD)：Self-spectral learning with GAN based spectral--spatial target detection for hyperspectral image (NN2021) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/SSL-SSTD&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
 
-* **论文复现**
+* **论文复现**👯
   * [model-dictionary](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/model-dictionary&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   
-* **论文阅读**
-  * [notebook](https://github.com/icey-zhang/model-dictionary) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/notebook&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
+* **论文阅读**📫
+  * [notebook](https://github.com/icey-zhang/notebook) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/notebook&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
 
 <!--
 **icey-zhang/icey-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
