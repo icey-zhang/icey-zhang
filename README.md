@@ -5,8 +5,15 @@
 - 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 
-
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=icey-zhang&theme=github)
+-->
+
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=icey-zhang&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=icey-zhang&hide_border=true" />
+</p>
+
 
 * **项目汇总**🌱
   * [DIAnet](https://github.com/icey-zhang/DIAnet)：Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DIAnet&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
