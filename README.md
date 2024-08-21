@@ -1,4 +1,4 @@
-### Hello，world 👋 This is aqing (张佳青) ✨✨
+### Hello，world 👋 This is Jiaqing Zhang (张佳青) ✨✨
   
 - 🔭 multimodal object detection in remote sensing
 - 🌱 Xi'dian university
