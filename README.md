@@ -14,6 +14,7 @@
   <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=icey-zhang&hide_border=true" />
 </p>
 
+![](https://raw.githubusercontent.com/icey-zhang/icey-zhang/output/github-contribution-grid-snake.svg)
 
 * **项目汇总**🌱
   * [DIAnet](https://github.com/icey-zhang/DIAnet)：Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image (TGRS2024)  ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DIAnet&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
