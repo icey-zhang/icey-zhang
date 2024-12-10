@@ -17,6 +17,7 @@
 ![](https://raw.githubusercontent.com/icey-zhang/icey-zhang/output/github-contribution-grid-snake.svg)
 
 * **项目汇总**🌱
+  * [DiffCLIP](https://github.com/icey-zhang/DiffCLIP)：DiffCLIP: Few-shot Language-driven Multimodal Classifier (**AAAI2025**)  ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DiffCLIP&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [E2E-MFD](https://github.com/icey-zhang/E2E-MFD) [E2E-MFD-HOD](https://github.com/icey-zhang/E2E-MFD-HOD)：E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection (**NeurlPS 2024 oral**) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/E2E-MFD&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [DIAnet](https://github.com/icey-zhang/DIAnet)：Distribution-aware Interactive Attention Network and Large-scale Cloud Recognition Benchmark on FY-4A Satellite Image (**TGRS2024**)  ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/DIAnet&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
   * [SuperYOLO](https://github.com/icey-zhang/SuperYOLO)：SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery (**TGRS2023, ESI Hot Paper (TOP 0.1%)**) ![](https://unv-shield.librian.net/api/unv_shield?repo=icey-zhang/SuperYOLO&url=https://avatars.githubusercontent.com/u/53330871&scale=0.7)
