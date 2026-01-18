@@ -1,6 +1,4 @@
 ### Hello，world 👋 This is Jiaqing Zhang (张佳青) ✨✨
-
-![OpenCoWork Passport](https://nvvtkckzlvfbnpkebltv.supabase.co/functions/v1/generate-avatar?handle=null)
   
 - 🔭 multimodal object detection in remote sensing
 - 🌱 Xi'dian university
