@@ -2,7 +2,7 @@
   
 - 🔭 multimodal object detection in remote sensing
 - 🌱 Xi'dian university
-- 📫 How to reach me: jqzhang_2@stu.xidian.edu.cn
+- 📫 How to reach me: icey_z@126.com
 - 😄 welcome to my ⭐[Personal Homepage](https://icey-zhang.github.io)⭐
 
 <!--
